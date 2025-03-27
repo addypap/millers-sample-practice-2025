@@ -1,3 +1,7 @@
+body {
+  margin: 2rem 3rem;
+}
+
 .header {
   display: flex;
 }
@@ -13,6 +17,6 @@ dt {
 }
 
 dd {
-  font-size: 1.25rem;
+  font-size: 1rem;
   margin: 0.25rem;
 }
